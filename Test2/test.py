@@ -1,6 +1,6 @@
-from ..Test1 import add
+from ..Test1 import defined
 
 d = 40 
 e = 70
 
-print (add(d,e))
+print (defined.add(d,e))
