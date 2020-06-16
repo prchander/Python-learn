@@ -1,4 +1,4 @@
-from Test1.defined import add
+from ..Test1 import add
 
 d = 40 
 e = 70
